@@ -1,4 +1,4 @@
 #For don't connect to gcr.io in china.
-FROM gcr.io/google-containers/heapster_grafana:v3.1.1
+FROM gcr.io/google_containers/heapster-grafana-amd64:v4.0.2
 
 MAINTAINER siriuszg <zhigang52110@sina.com>

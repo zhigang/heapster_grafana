@@ -1,3 +1,4 @@
 # heapster_grafana
 
-* `v3.1.1`, `latest`
+* `v4.0.2`, `latest`
+* `v3.1.1`
